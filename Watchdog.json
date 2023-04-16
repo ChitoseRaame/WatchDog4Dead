@@ -1,0 +1,4 @@
+{
+    "FlushProcessTableInterval" : 30,
+    "HeartbeatCheckInterval" : 60
+}

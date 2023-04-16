@@ -1,0 +1,27 @@
+{
+  "端口号": [
+    "服务器端主目录",
+    "可执行文件名",
+    "运行参数"
+  ],
+  "27015": [
+    "c:\\Left 4 Dead 2 Server For NekoChocolate\\",
+    "srcds0.exe",
+    "-game left4dead2 +map c2m1_highway coop -port 27015"
+  ],
+  "27016": [
+    "c:\\Left 4 Dead 2 Server For Special Mode\\",
+    "srcds.exe",
+    "-game left4dead2 +map c2m1_highway coop -port 27016"
+  ],
+  "27017": [
+    "c:\\Left 4 Dead 2 Server Unofficial Map\\",
+    "srcds.exe",
+    "-game left4dead2 +map c2m1_highway coop -port 27017"
+  ],
+  "27018": [
+    "c:\\Left 4 Dead 2 Server\\",
+    "srcds.exe",
+    "-game left4dead2 +map c2m1_highway coop -port 27018"
+  ]
+}
